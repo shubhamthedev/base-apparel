@@ -4,5 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge solution, i'm not very good at JS just yet so i couldn't play around with it much but i think i got the html and css part pretty well.
+Thanks for checking out this front-end coding challenge solution, i'm not very good at JS just yet so i couldn't play around with it much but i think i got the html and css part pretty well. You could check out this site at https://tomboynotes.github.io/base-apparel/index.html
+
+
  
