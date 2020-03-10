@@ -126,6 +126,9 @@ body {
     text-align: center;
   }
   &__input {
+    padding-left: 4rem;
+    background: transparent;
+    color: #dd959b;
     width: 38%;
     height: 5.5rem;
     border-radius: 10rem;
@@ -144,10 +147,10 @@ body {
   &__input::-webkit-input-placeholder {
     font-weight: 400;
     color: $color-primary-light;
-    transform: translateX(3rem);
   }
 
   &__submit-btn {
+    cursor: pointer;
     background-image: linear-gradient(
       135deg,
       hsl(0, 80%, 86%),
