@@ -103,6 +103,8 @@ body {
       .form__input {
         width: 70%;
         background-image: linear-gradient(135deg, white, #fff5f5); } }
+  .form__input-label {
+    display: none; }
   .form__input::-webkit-input-placeholder {
     font-weight: 400;
     color: #ce9797; }

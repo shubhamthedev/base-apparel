@@ -144,6 +144,9 @@ body {
       );
     }
   }
+  &__input-label {
+    display: none;
+  }
   &__input::-webkit-input-placeholder {
     font-weight: 400;
     color: $color-primary-light;
